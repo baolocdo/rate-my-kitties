@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "rate-my-kitties",
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "babel-jest": "*",
+    "jest": "*",
+    "jquery": "*",
+    "jquery-ui": "^1.12.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
